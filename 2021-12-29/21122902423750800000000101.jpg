@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="user-scalable=no">
+  <title>想看资源网</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+ <link rel="icon" href="/ico.gif?ver=0.996954628264976" type="image/icon" />
+<link href="/theme/video/mg_A019/static/static/css/main.css" type="text/css" rel="stylesheet">
+<script src="/static/video/js/jquery.js"></script>
+<link href="/static/video/css/home.css" rel="stylesheet" type="text/css" />
+<script src="/static/video/js/jquery.lazyload.js"></script>
+<script src="/static/video/js/jquery.autocomplete.js"></script>
+<script>var mgcms={"path":"","mid":"","url":"http://xiangkanzy.com","wapurl":"http://xiangkanzy.net","mob_status":"0"};</script>
+<script src="/static/video/js/home.js"></script>
+<script></script>
+
+    </head>
+    <body>
+   <header class="index-header">
+  <ul class="index-card">
+        <li style="color: red">郑重承诺：资源永久免费,资源不含任何广告,无广告永久免费的资源站(承诺绝不影响用户体验)</li><br>
+        <li style="color: red">想看资源网采集和播放器的教程请参阅 <a target="_blank" href="http://help.xiangkanapi.com/" class="flicker"><strong>想看资源网帮助中心</strong></a></li>
+
+        <li style="color: red"> <a target="_blank" class="flicker" href=""></a></li>
+        <li style="color:red;font-size: 16px;font-weight: bold">
+             <br>  <hr><br>
+           
+          
+            <span style="color:blue;">想看 xiangkanzy、（xiangkanzy1-9）.com、（总有一条可以打开）</span>
+             <br>  <hr><br>
+        </li>
+
+        <li style="color: red;font-size: 15px"><strong>想看资源网长QQ：<font color="#0000FF">435791165</font> 交流QQ群:
+		<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=OJBSh590 ">
+		<img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" width="90" height="22"></a></strong></li
+        <li style="color:red;font-size: 16px;font-weight: bold">
+          <br> <hr><br>
+<p><font color="#0000FF" size="3">想看资源TG 交流群：https://t.me/xkzy8</font></b></p>
+<li>
+          
+    
+               <br>  <hr><br>
+<p><b><font color="#FF0000" size="3">H5专用解析 https://lyw28.com/m3u8/?url=</font></b></p>
+</li>
+
+                 <br>  <hr><br>
+<p><b><font color="#FF0000" size="3">火车头备用采集网站 <a target="_blank" href="http://xiangkanzy.net/">http://xiangkanzy.net/</a></font></b></p>
+</li>
+
+<li>
+ <br>  <hr><br>
+<p><b><font color="#FF0000" size="4">欢迎各位新老站长加盟采集！更多资源福利分享，尽在站长资源分享群！</font></b></p>
+</li>
+<li>
+
+        </li>
+        <li style="color: blue;font-size: 22px"><strong>
+
+    </ul>
+</header>
+
+  <div class="head container">
+        <a href="/">
+            <img src="/upload/sys/image/a1/3fa319c5b41b8d7c1a0d9cda8aa206.png" alt="logo" class="logo" />
+        </a>
+         <form id="search" name="search" method="POST" action="/index.php/vod/search.html" onSubmit="return qrsearch();">
+		<div class="search">
+            <img src="/theme/video/mg_A019/static/static/picture/search.png" alt="logo" />
+            <input id="wd" type="text" name="wd"  placeholder="整站资源任你搜" class="limit" required />
+            <input type="submit" id="searchbutton"  value="搜索" />  </form>
+            <p>CMS采集碰到问题请参阅 ：<a href="http://help.xiangkanapi.com/" style="color:red">想看资源网采集帮助中心</a></p>
+            <p>欢迎来到想看资源网网，如若搜索不到片源的话，请点击<a href="/index.php/gbook/index.html">"留言求片"</a>进行反馈</p>
+        </div>
+        <div class="head-right">
+            <p>
+                <a href="/index.php/user/index.html">登录</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a href="/index.php/user/reg.html">注册</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a href="/index.php/gbook/index.html">求片留言</a>
+            </p>
+            <p>QQ群：<span>435791165 </span></p>
+            <p>今日更新影片：<span>6</span></p>
+            <p>本站共有资源总计：<span>38647</span></p>
+        </div>
+    </div><div class="nav">
+        <ul class="container">
+            <li><a href="/" class="actave">首页</a></li>
+						<li>
+			<a href="/index.php/vod/type/id/1.html">电影</a>
+						<a href="/index.php/vod/type/id/23.html">犯罪片</a>			<a href="/index.php/vod/type/id/24.html">纪录片</a>			<a href="/index.php/vod/type/id/25.html">动漫片</a>			<a href="/index.php/vod/type/id/6.html">动作片</a>			<a href="/index.php/vod/type/id/7.html">喜剧片</a>			<a href="/index.php/vod/type/id/8.html">爱情片</a>			<a href="/index.php/vod/type/id/9.html">科幻片</a>			<a href="/index.php/vod/type/id/10.html">恐怖片</a>			<a href="/index.php/vod/type/id/11.html">剧情片</a>			<a href="/index.php/vod/type/id/12.html">战争片</a>			</li>
+						<li>
+			<a href="/index.php/vod/type/id/2.html">连续剧</a>
+						<a href="/index.php/vod/type/id/20.html">台湾剧</a>			<a href="/index.php/vod/type/id/21.html">韩国剧</a>			<a href="/index.php/vod/type/id/22.html">海外剧</a>			<a href="/index.php/vod/type/id/13.html">国产剧</a>			<a href="/index.php/vod/type/id/14.html">香港剧</a>			<a href="/index.php/vod/type/id/15.html">日本剧</a>			<a href="/index.php/vod/type/id/16.html">欧美剧</a>			</li>
+						<li>
+			<a href="/index.php/vod/type/id/3.html">综艺</a>
+						<a href="/index.php/vod/type/id/26.html">日韩综艺</a>			<a href="/index.php/vod/type/id/27.html">大陆综艺</a>			<a href="/index.php/vod/type/id/28.html">港台综艺</a>			<a href="/index.php/vod/type/id/29.html">欧美综艺</a>			</li>
+						<li>
+			<a href="/index.php/vod/type/id/4.html">动漫</a>
+						<a href="/index.php/vod/type/id/30.html">国产动漫</a>			<a href="/index.php/vod/type/id/31.html">日本动漫</a>			<a href="/index.php/vod/type/id/32.html">欧美动漫</a>			<a href="/index.php/vod/type/id/33.html">海外动漫</a>			</li>
+						<li>
+			<a href="/index.php/vod/type/id/34.html">三级伦理</a>
+						</li>
+			        </ul>
+    </div>
+	<div class="bread-crumbs">
+        <p class="limit">
+            当前位置：
+            <a href="/">首页</a>
+            &nbsp;&nbsp;&#155;&nbsp;&nbsp;<a class="actave">今日更新</a>
+        </p>
+    </div><div class="list">
+        <ul class="title background container">
+            <li>影片名称</li>
+            <li>影片地区</li>
+            <li>影片类型</li>
+            <li>更新时间</li>
+        </ul>
+        <div class="list-box">
+            <div class="content">
+                			   <a href="/index.php/vod/detail/id/36473.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">爱的麻花&nbsp<font color=#FF0000>更新至12集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>韩国剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/35098.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">那年，我们的夏天&nbsp<font color=#FF0000>更新至8集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>韩国剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/28245.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">Show Window：女王的家&nbsp<font color=#FF0000>更新至9集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>韩国剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/16444.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">无法抗拒的爱&nbsp<font color=#FF0000>共22集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>泰国</li>
+            <li>海外剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/28.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">国家代表老婆&nbsp<font color=#FF0000>更新至57集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>韩国剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/2.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">第二任丈夫&nbsp<font color=#FF0000>更新至93集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>韩国剧</li>
+            <li class="red" >2021-12-29 00:32:02</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38620.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">爱上我的衰神国语&nbsp<font color=#FF0000>更新至2集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国香港</li>
+            <li>香港剧</li>
+            <li class="red" >2021-12-28 23:25:45</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38619.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">爱上我的衰神粤语&nbsp<font color=#FF0000>更新至2集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国香港</li>
+            <li>香港剧</li>
+            <li class="red" >2021-12-28 23:25:45</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38469.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">热血神探&nbsp<font color=#FF0000>更新至10集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 23:25:45</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/37546.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">异搜店&nbsp<font color=#FF0000>更新至7集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国香港</li>
+            <li>香港剧</li>
+            <li class="red" >2021-12-28 23:25:45</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/37702.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">输赢&nbsp<font color=#FF0000>共40集,更新至14集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 22:18:53</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/35898.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">小敏家&nbsp<font color=#FF0000>更新至34集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 22:18:16</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38782.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">蚀日风暴&nbsp<font color=#FF0000>共36集,完结</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆,中国香港</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 22:17:43</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38021.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">三生有幸遇上你&nbsp<font color=#FF0000>更新至11集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 22:17:43</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/36466.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">沉睡花园&nbsp<font color=#FF0000>更新至8集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 22:17:43</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38783.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">王贵与安娜&nbsp<font color=#FF0000>共32集,完结</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 21:38:09</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/37111.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">问天&nbsp<font color=#FF0000>更新至24集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 21:38:09</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/36961.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">飞虎3之壮志英雄粤语&nbsp<font color=#FF0000>更新至19集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国香港,中国大陆</li>
+            <li>香港剧</li>
+            <li class="red" >2021-12-28 21:38:09</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/11498.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">问天录&nbsp<font color=#FF0000>共40集,完结</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 21:38:09</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/36651.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">Running Man 2021&nbsp<font color=#FF0000>更新至20211226期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/26340.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">闲着干嘛呢？ 2021&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/25141.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">惊人的星期六 2021&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/25138.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">柳熙烈的写生簿 2021&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/25136.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">我独自生活 2021&nbsp<font color=#FF0000>更新至20211224期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/25135.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">认识的哥哥 2021&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/313.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">医次搞定(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/312.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">风水有关系 2021&nbsp<font color=#FF0000>更新至20211226期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/268.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">综艺玩很大(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/267.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">天才冲冲冲(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/266.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">超级夜总会(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/265.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">综艺3国智(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/264.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">台湾那么旺(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/261.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">明星许愿池&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>日韩综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/257.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">台湾第一等(2021)&nbsp<font color=#FF0000>更新至20211226期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/256.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">世界第一等(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/254.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">星光欢乐城(2021)&nbsp<font color=#FF0000>更新至20211225期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/200.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">综艺大热门(2021)&nbsp<font color=#FF0000>更新至20211224期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/197.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">娱乐百分百(2021)&nbsp<font color=#FF0000>更新至20211224期</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国台湾</li>
+            <li>港台综艺</li>
+            <li class="red" >2021-12-28 21:29:07</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/38784.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">网络谜踪&nbsp<font color=#FF0000>超清</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>美国,俄罗斯</li>
+            <li>剧情片</li>
+            <li class="red" >2021-12-28 20:57:22</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/35332.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">人海之中遇见你&nbsp<font color=#FF0000>共24集</font><img src="/theme/video/mg_A019/static/static/picture/new.gif"></li>
+            <li>中国大陆</li>
+            <li>国产剧</li>
+            <li class="red" >2021-12-28 20:43:42</li>
+        </ul>
+    </a>
+                <div class="page">
+        <a href="/index.php/index/index/page/1.html">首页</a>
+		 <a  href="/index.php/index/index/page/1.html" title="上一页">上一页</a>
+				<a  href="javascript:;"  class="actave" >1</a>        		
+		<a href="/index.php/index/index/page/2.html">2</a>
+		                		
+		<a href="/index.php/index/index/page/3.html">3</a>
+		                		
+		<a href="/index.php/index/index/page/4.html">4</a>
+		                		
+		<a href="/index.php/index/index/page/5.html">5</a>
+		                        <a  href="/index.php/index/index/page/2.html" title="下一页">下一页</a>
+        <a  href="/index.php/index/index/page/967.html" title="尾页">尾页</a>
+    </div>
+            </div>
+        </div>
+    </div>
+	<div class="bottom">
+        <p>Copyright &#169 2018 - 2020 想看资源网网 http://xiangkanzy.com</p>
+        <p>本站资源来自互联网收集,仅供用于学习和交流,请遵循相关法律法规,本站一切资源不代表本站立场,如有侵权、后门、不妥请联系本站QQ:435791165删除</p>
+        <p>
+                       | <a>网站地图</a> | <a>关于我们</a> | <a>合作伙伴</a> | <a>广告服务</a>
+        </p>
+    </div>
+    </body>
+</html>
